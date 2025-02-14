@@ -1,1 +1,2 @@
-sey (hi)
+login (name)
+password (paswd) 
